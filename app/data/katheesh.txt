@@ -1,5 +1,5 @@
-<span id="a">katheesh@linux</span>:<span id="b">~</span><span id="c">$</span> cd Katheesh/
-<span id="a">katheesh@linux</span>:<span id="b">~</span><span id="c">$</span> cat katheesh.txt<br/><br/>
+<span id="a">katheesh@linux</span>:<span id="b">~</span><span id="c">$</span> cd Katheesh/InfoSite
+<span id="a">katheesh@linux</span>:<span id="b">~</span><span id="c">$</span> cat myweb.html<br/><br/>
 My favorite code quote, "<span id="k">Efficiency consists in a resolute mind.</span>".
 
 Hey There! I am Katheeskumar (SOFTWARE ENGINEER & ENTREPRENEUR) 🇱🇰. 
